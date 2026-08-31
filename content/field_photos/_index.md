@@ -7,7 +7,7 @@ tabTitle: "Field Work | William Frazer"
 
 {{< figure src="Station_service.jpg" caption="Servicing a BEST station at the National Museum of Bermuda. Credit: Navid Marvi" >}}
 
-{{< figure src="instrument_prep..jpg" caption="Preparing seismometers for deployment in Bermuda at Carnegie EPL." >}}
+{{< figure src="instrument_prep..jpg" caption="Preparing seismometers for deployment in Bermuda after recover from the Colombian Andes at Carnegie EPL." >}}
 
 {{< figure src="Mother_of_all_outcrops_Oman.jpg" caption="“Mother of all Outcrops” near Sur, Oman. Credit: Mark Brandon" >}}
 
