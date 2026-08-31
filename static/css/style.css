@@ -166,6 +166,9 @@ figcaption {
   .intro {
     flex-direction: column;
     align-items: center;
+    .intro p {
+    text-align: justify !important;
+  }
   }
 
   .profile-image {
