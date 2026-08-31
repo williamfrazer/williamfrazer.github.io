@@ -165,13 +165,16 @@ figcaption {
 @media (max-width: 768px) {
   .intro {
     flex-direction: column;
-    .intro-text p {
-    text-align: justify;
-}
+    align-items: center;
   }
 
   .profile-image {
     width: 140px;
     height: 140px;
+  }
+
+  .intro-text {
+    width: 100%;
+    text-align: justify;
   }
 }
