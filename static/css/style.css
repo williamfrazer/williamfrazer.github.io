@@ -165,7 +165,9 @@ figcaption {
 @media (max-width: 768px) {
   .intro {
     flex-direction: column;
+    .intro-text p {
     text-align: justify;
+}
   }
 
   .profile-image {
