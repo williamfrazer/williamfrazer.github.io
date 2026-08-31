@@ -36,8 +36,9 @@ footer {
 .profile-image {
     width: 200px;
     height: auto;
-    object-fit: fill;
+    object-fit: cover;
     border-radius: 50%;
+    flex-shrink: 0;
 }
 
 .image {
@@ -56,6 +57,7 @@ footer {
 
 .intro-text {
     display: block;
+    flex: 1;
     .intro-text p {
     text-align: justify;
 }
@@ -157,4 +159,17 @@ figcaption {
   text-align: left;
   color: #333;
   font-size: 0.9rem;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .intro {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .profile-image {
+    width: 140px;
+    height: 140px;
+  }
 }
