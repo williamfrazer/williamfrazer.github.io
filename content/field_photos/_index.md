@@ -3,7 +3,7 @@ title: "Photos from the Field"
 tabTitle: "Field Work | William Frazer"
 ---
 
-# Photos from the Field
+# Photos from the field
 
 {{< figure src="Station_service.jpg" caption="Servicing a BEST station at the National Museum of Bermuda. Credit: Navid Marvi" >}}
 
