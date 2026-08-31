@@ -35,7 +35,7 @@ Binghamton University
 {{< publications >}}
 
 <p>
-The most up to date list of my publications and presenations can be found on my
+The most up to date list of my publications and presentations can be found on my
   <a href="https://scholar.google.com/citations?user=4v9dDbAAAAAJ&hl=en">
     Google Scholar.
   </a>

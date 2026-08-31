@@ -13,6 +13,6 @@ tabTitle: "Field Work | William Frazer"
 
 {{< figure src="OBS_waiting_to_be_deployed.jpg" caption="OBS waiting to be deployed aboard the R/V Marcus G. Langseth, Eastern Pacific." >}}
 
-{{< figure src="Moho_Oman.jpg" caption="Inspecting the Moho in Wadi Far near Al Abyad, Oman. Credit: Jackson" >}}
+{{< figure src="Moho_Oman.jpg" caption="Inspecting the Moho in Wadi Far near Al Abyad, Oman. Credit: Jackson Neuhoff" >}}
 
 {{< figure src="Sunset_in_San_Diego.jpg" caption="Sunset in San Diego Harbor aboard the R/V Marcus G. Langseth." >}}
