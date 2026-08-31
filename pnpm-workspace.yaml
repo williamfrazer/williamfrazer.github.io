@@ -1,0 +1,2 @@
+allowBuilds:
+  hugo-bin: set this to true or false

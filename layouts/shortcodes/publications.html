@@ -1,0 +1,13 @@
+<ul class="publications">
+  {{ range hugo.Data.publications }}
+    <li>
+      {{ .author }} ({{ .year }}).
+      <em>{{ .title }}</em>.
+      {{ .journal }}{{ with .volume }}, {{ . }}{{ end }}{{ with .number }}({{ . }}){{ end }}{{ with .pages }}, {{ . }}{{ end }}.
+
+      {{ with .doi }}
+        <a href="https://doi.org/{{ . }}">{{ . }}</a>
+      {{ end }}
+    </li>
+  {{ end }}
+</ul>

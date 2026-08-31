@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ .Language.Lang }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ with .Params.tabTitle }}{{ . }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+
+    {{ partial "nav.html" . }}
+
+    <main>
+
+        {{ block "main" . }}
+        {{ end }}
+    
+    </main>
+
+    <footer>
+        <p>© {{ now.Year }} {{ .Site.Title }}</p>
+    </footer>
+
+</body>
+</html>

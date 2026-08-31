@@ -1,0 +1,2 @@
+[security]
+allowContent = ['^text/html$', '^text/markdown$']

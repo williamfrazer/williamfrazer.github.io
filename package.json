@@ -1,0 +1,28 @@
+{
+  "name": "williamfrazer.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo server --buildDrafts --cleanDestinationDir",
+    "hugo": "hugo",
+    "hugo:build": "hugo --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "autoprefixer": "^10.5.4",
+    "hugo-bin": "^0.161.0",
+    "postcss": "^8.5.26",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "^4.3.3"
+  },
+  "allowScripts": {
+    "tailwindcss@4.3.3": true,
+    "postcss@8.5.26": true,
+    "postcss-cli@11.0.1": true,
+    "autoprefixer@10.5.4": true
+  }
+}

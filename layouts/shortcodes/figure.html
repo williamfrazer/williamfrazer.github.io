@@ -1,0 +1,16 @@
+{{ $image := .Page.Resources.GetMatch (.Get "src") }}
+
+{{ with $image }}
+  {{ $resized := .Resize "1200x webp" }}
+
+  <figure>
+    <img
+      src="{{ $resized.RelPermalink }}"
+      width="{{ $resized.Width }}"
+      height="{{ $resized.Height }}"
+      alt="{{ $.Get "alt" }}"
+      loading="lazy"
+    >
+    <figcaption>{{ $.Get "caption" }}</figcaption>
+  </figure>
+{{ end }}

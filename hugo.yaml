@@ -1,0 +1,17 @@
+baseURL: http://localhost:1313/
+locale: en-us
+title: William Frazer
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.112.0"
+
+params:
+  contact:
+    email: williamfrazer@carnegiescience.edu
+
+markup: 
+  goldmark: 
+    renderer: 
+      unsafe: true
