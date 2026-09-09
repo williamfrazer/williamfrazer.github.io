@@ -30,7 +30,7 @@ Binghamton University
 
 <div style="height: 10px;"></div>
 
-## First-Author Publications
+## Publications
 
 {{< publications >}}
 

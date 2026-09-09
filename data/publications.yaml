@@ -1,3 +1,13 @@
+- key: https://doi.org/10.1029/2026JB034380
+  author: Gaspar Monsalve, Lara S. Wagner, David S. Avellaneda-Jiménez, William D. Frazer, and Miguel A. Alzate, 
+  title: Flat-Slab Subduction and Overriding Plate Architecture Beneath the Northwestern Andes Revealed by Receiver Functions
+  journal: 'Journal of Geophysical Research: Solid Earth'
+  year: '2026'
+  volume: '131'
+  number: '9'
+  pages: e2026JB034380
+  doi: https://doi.org/10.1029/2026JB034380
+
 - key: https://doi.org/10.1029/2025GL118279
   author: William D. Frazer and Jeffrey Park
   title: Thick Underplating and Buoyancy of the Bermuda Swell
@@ -7,6 +17,7 @@
   number: '23'
   pages: e2025GL118279
   doi: https://doi.org/10.1029/2025GL118279
+
 - key: FRAZER2025107434
   author: William D. Frazer, Jeffrey Park, and Frederik Link
   title: Crustal anisotropy as evidence for hydration of the Martian upper mantle
@@ -16,6 +27,7 @@
   number: ''
   pages: '107434'
   doi: https://doi.org/10.1016/j.pepi.2025.107434
+
 - key: FRAZER2024118838
   author: William D. Frazer and Jeffrey Park
   title: 'No globally detectable seismic interfaces within Earth''s mantle transition
@@ -44,6 +56,7 @@
   number: ''
   pages: '117286'
   doi: https://doi.org/10.1016/j.epsl.2021.117286
+
 - key: 10.1785/0220210189
   author: William D. Frazer, Adrian K. Doran, and Gabi Laske
   title: Benchmarking Automated Rayleigh‐Wave Arrival Angle Measurements for USArray
@@ -54,6 +67,7 @@
   number: 2A
   pages: 763-776
   doi: https://doi.org/10.1785/0220210189
+
 - key: https://doi.org/10.1029/2021GL095838
   author: William D. Frazer and Jeffrey Park
   title: Seismic Evidence of Mid-Mantle Water Transport Beneath the Yellowstone Region
@@ -63,3 +77,23 @@
   number: '20'
   pages: e2021GL095838
   doi: https://doi.org/10.1029/2021GL095838
+
+- key:  https://doi.org/10.3390/rs10111672
+  author: Alex Nikulin, Timothy de Smet, Jasper, Baur, William D. Frazer, and Jacob Abramowitz
+  title: Detection and identification of remnant PFM-1 ‘Butterfly Mines’ with a UAV-based thermal-imaging protocol
+  journal: Remote Sensing
+  year: '2018'
+  volume: '10'
+  number: '11'
+  pages: '1642'
+  doi: https://doi.org/10.3390/rs10111672
+
+- key: 10.1785/0220210189
+  author: Timothy de Smet, Alex Nikulin, William D. Frazer, Jasper, Baur, Jacob Abramowitz, Daniel Finan, Sean Denara, Nicholas Aglietti, and Gaberiel Campos
+  title: 'Drones and “butterflies”: A low-cost UAV system for rapid detection and identification of unconventional minefields'
+  journal: The Journal of Conventional Weapons Destruction
+  year: '2018'
+  volume: '22'
+  number: '3'
+  pages: '10'
+  doi: 
