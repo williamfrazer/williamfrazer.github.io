@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 
 <div style="display: flex; align-items: center; gap: 12px;">
   <h1 style="margin: 0;">Curriculum Vitae</h1>
-  <a href="/pdfs/William_Frazer_CV.pdf" class="button"
+  <a href="/pdfs/William_Frazer_CV_Sept26.pdf" class="button"
 target="_blank" rel="noopener noreferrer">Full CV</a>
 </div>
 
