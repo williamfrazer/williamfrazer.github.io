@@ -12,20 +12,20 @@ target="_blank" rel="noopener noreferrer">Full CV</a>
 
 ## Present Appointment
 
-**Carnegie Postdoctoral Fellow, 2024 - Present**  
+**Carnegie Postdoctoral Fellow, 2024 - Present**
 Earth and Planets Laboratory, Carnegie Science
 
 <div style="height: 10px;"></div>
 
 ## Education
 
-**PhD in Earth and Planetary Sciences, 2024**  
+**PhD in Earth and Planetary Sciences, 2024**
 Yale University
 
-**MPhil in Earth and Planetary Sciences, 2021**  
+**MPhil in Earth and Planetary Sciences, 2021**
 Yale University
 
-**BS in Geological Sciences: Geophysics, 2019**  
+**BS in Geological Sciences: Geophysics, 2019**
 Binghamton University
 
 <div style="height: 10px;"></div>
